@@ -10,3 +10,5 @@ this is my first devops practice project.
 bash hello.sh
 ###uodate mafe on giuthubs
  from feature branch 2
+
+echo "tetsing1"
